@@ -1,0 +1,22 @@
+C:\Users\Lenovo\source\repos\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\bin\Debug\SALAHİ LOGİN PAGE.exe.config
+C:\Users\Lenovo\source\repos\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\bin\Debug\SALAHİ LOGİN PAGE.exe
+C:\Users\Lenovo\source\repos\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\bin\Debug\SALAHİ LOGİN PAGE.pdb
+C:\Users\Lenovo\source\repos\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ LOGİN PAGE.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ_LOGİN_PAGE.Form1.resources
+C:\Users\Lenovo\source\repos\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ_LOGİN_PAGE.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ LOGİN PAGE.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ LOGİN PAGE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ LOGİN PAGE.exe
+C:\Users\Lenovo\source\repos\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ LOGİN PAGE.pdb
+C:\Users\Lenovo\source\repos\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ_LOGİN_PAGE.Form2.resources
+C:\Users\Salahi\Desktop\PROJE\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\bin\Debug\SALAHİ LOGİN PAGE.exe.config
+C:\Users\Salahi\Desktop\PROJE\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\bin\Debug\SALAHİ LOGİN PAGE.exe
+C:\Users\Salahi\Desktop\PROJE\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\bin\Debug\SALAHİ LOGİN PAGE.pdb
+C:\Users\Salahi\Desktop\PROJE\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ LOGİN PAGE.csproj.AssemblyReference.cache
+C:\Users\Salahi\Desktop\PROJE\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ_LOGİN_PAGE.Form1.resources
+C:\Users\Salahi\Desktop\PROJE\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ_LOGİN_PAGE.Form2.resources
+C:\Users\Salahi\Desktop\PROJE\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ_LOGİN_PAGE.Properties.Resources.resources
+C:\Users\Salahi\Desktop\PROJE\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ LOGİN PAGE.csproj.GenerateResource.cache
+C:\Users\Salahi\Desktop\PROJE\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ LOGİN PAGE.csproj.CoreCompileInputs.cache
+C:\Users\Salahi\Desktop\PROJE\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ LOGİN PAGE.exe
+C:\Users\Salahi\Desktop\PROJE\SALAHİ LOGİN PAGE\SALAHİ LOGİN PAGE\obj\Debug\SALAHİ LOGİN PAGE.pdb
